@@ -20,6 +20,6 @@ Run the game and have fun.
 
 
 
-|Issue Reporting|
------------------
-Having any issues? Report a bug with the issues tab.
+|Issue Reporting|Feedback Reporting|
+-------------------------------------
+|Having any issues? Report a bug with the issues tab.|
