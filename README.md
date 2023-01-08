@@ -20,6 +20,11 @@ Run the game and have fun.
 
 
 
-|Issue Reporting|Feedback Reporting|
+|Issue Reporting|
 -------------------------------------
-|Having any issues? Report a bug with the issues tab.|
+|Having any issues? Report a bug with the issues tab.
+
+
+|Feedback Reporting|
+--------------------
+Have any feedback to give go to the issues tab and use the feedback tag
